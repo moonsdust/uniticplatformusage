@@ -2,6 +2,8 @@
 
 One of the pages for signing up for Unitic's treatment platform. Created using Next.js and Tailwind CSS. 
 
+![Platform Usage Page](/public/images/platformusage.png)
+
 ## Setup 
 Install all dependencies:  
 ```bash
